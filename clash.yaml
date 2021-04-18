@@ -551,7 +551,6 @@ proxy-groups:
       - 🇺🇲 adi|0320 - 美国 2
       - 🇦🇹 adi|0319 - 奥地利
 rules:
-rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连
